@@ -1,0 +1,8 @@
+﻿name: Zombie Survival
+author: zombie
+description: Template event for people to reference
+events:
+  player_joined: 
+    commands: [
+      "bc 5 Testing Testing is this thing on?"
+    ]
